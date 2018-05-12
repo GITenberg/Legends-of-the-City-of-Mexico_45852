@@ -21,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3196
     wikipedia: http://en.wikipedia.org/wiki/Thomas_Allibone_Janvier
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/45852#Legends-of-the-City-of-Mexico
 gutenberg_issued: '2014-06-01'
 gutenberg_type: Text
 identifiers:
