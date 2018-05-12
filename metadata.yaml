@@ -1,0 +1,39 @@
+_repo: Legends-of-the-City-of-Mexico_45852
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Clark, Walter Appleton
+    alias: Clark, W. Appleton (Walter Appleton)
+    birthdate: 1876
+    deathdate: 1906
+    gutenberg_agent_id: '40208'
+    url: http://www.gutenberg.org/2009/agents/40208
+covers:
+- cover_type: archival
+  image_path: 45852-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Janvier, Thomas A. (Thomas Allibone)
+    alias: Janvier, Thomas Allibone
+    birthdate: 1849
+    deathdate: 1913
+    gutenberg_agent_id: '3196'
+    url: http://www.gutenberg.org/2009/agents/3196
+    wikipedia: http://en.wikipedia.org/wiki/Thomas_Allibone_Janvier
+description: ''
+gutenberg_issued: '2014-06-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45852'
+  lccn: '10001765'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Tales -- Mexico'
+- !lcc 'GR'
+- !lcsh 'Folklore -- Mexico'
+- !lcsh 'Legends -- Mexico'
+title: Legends of the City of Mexico
+url: http://www.gutenberg.org/ebooks/45852
